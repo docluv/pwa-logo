@@ -1,3 +1,4 @@
+
 # pwa-logo
 A Logo to Represent Progressive Web Applications
 
@@ -17,3 +18,5 @@ This is an evolving definition, but at a minimum a site must implement HTTPS, a 
 # The PWA Logo
 
 The logo was created by Love2Dev because there was not an icon or logo representing the concept of a PWA. The logo should be considered publically available for everyone to use.
+
+![Logo](PWAS3.gif)
