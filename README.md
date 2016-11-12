@@ -8,7 +8,7 @@ Progressive Web Applications, or PWAs, combine a mix of modern web technologies 
 
 # What is the Minimum PWA Criteria?
 
-This is an evolving definition, but at a minimum a site must implement HTTPS, a web manifest and a Service Worker.
+This is an evolving definition, but at a minimum a site must implement HTTPS, [a web manifest](https://github.com/w3c/manifest) and a Service Worker.
 
 # PWA Advantages
 
