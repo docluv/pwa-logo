@@ -1,0 +1,55 @@
+{
+  "name": "PWA Logo Black",
+  "short_name": "PWA Logo Black",
+  "icons": [
+    {
+      "src": "img/pwa-logo-70x70-black.png",
+      "sizes": "70x70",
+      "type": "image/png"
+    },
+    {
+      "src": "img/pwa-logo-120x120-black.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "img/pwa-logo-144x144-black.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "img/pwa-logo-152x152-black.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "img/pwa-logo-192x192-black.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/pwa-logo-310x174-black.png",
+      "sizes": "310x174",
+      "type": "image/png"
+    },
+    {
+      "src": "img/pwa-logo-310x310-black.png",
+      "sizes": "310x310",
+      "type": "image/png"
+    },
+    {
+      "src": "img/pwa-logo-340x340-black.png",
+      "sizes": "340x340",
+      "type": "image/png"
+    },
+    {
+      "src": "img/pwa-logo-610x310-black.png",
+      "sizes": "600x310",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000",
+  "theme_color": "#fff"
+}
